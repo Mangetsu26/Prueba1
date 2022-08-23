@@ -1,0 +1,26 @@
+* {
+  margin: 2;
+  padding: 2;
+}
+
+body {
+  background-color: rgb(241, 11, 11);
+}
+.noanda {color: blueviolet; }
+p {
+    color: blue;
+  }
+
+  h1 {
+    font-size: 36px;
+    color: rgb(12, 231, 176);
+    font-family: 'Open Sans';
+    }
+
+    .cat {
+      height:200px
+     }
+     img {
+      width: auto; 
+      max-height: 100%; 
+     }

@@ -1,0 +1,50 @@
+h1 {text-align: center;}
+
+p {
+    color: blueviolet;
+    text-align: center;
+    padding: 20px;
+  }
+
+ 
+
+ body {
+    width: 630px;
+    margin: 0 auto;
+    background-color: #000000;
+    padding: 0 20px 20px 20px;
+    border: 5px solid blueviolet;
+  }
+.prueba {
+  background-color: rgb(0, 0, 0); 
+  padding: 0.5em;
+  border: 4px solid blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.galerias {  background-color: rgb(0, 0, 0); 
+  padding: 0.5em;
+  border: 2px solid blueviolet;
+  font-family:'Times New Roman', Times, serif;}
+#lateral { width: 570px;
+ 
+  margin: 0 auto;
+  background-color: #000000;
+  padding: 20px px 20px 20px;
+  border: 2px solid blueviolet;}
+
+h4 {color: blueviolet; font-family:'Times New Roman' ;
+  text-align: center; padding: 20px 20px 20px 20px;}
+h3 {color: blueviolet; text-align: center; background-color: rgb(0, 0, 0); 
+  padding: 0.5em;
+ ;}
+h6 {text-align: center;}
+th {color: blueviolet;}
+tr {color: blueviolet;}
+h1 {color: blueviolet;}
+
+h5 {color: blueviolet; font-family:'Times New Roman' ;
+  text-align: center; padding: 20px 20px 20px 20px;}
+
+
